@@ -1,5 +1,7 @@
 # Practical Application Assignment 11.1: What Drives the Price of a Car?
 
+Link to Notebook: https://github.com/vishalsurana25/Assignment-11.1/blob/main/Car%20Price%20Project.ipynb
+
 # **Objective**
 
 ### The objective of this assignment was to analyze a used car dataset from Kaggle and identify the factors that influence the price of a car, and then explain these findings to used car dealers.
